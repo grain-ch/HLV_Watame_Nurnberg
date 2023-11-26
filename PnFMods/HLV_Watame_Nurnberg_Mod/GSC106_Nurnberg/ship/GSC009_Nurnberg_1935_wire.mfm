@@ -1,0 +1,10 @@
+<GSC009_Nurnberg_1935_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/ship/GSC009_Nurnberg_1935_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/ship/GSC009_Nurnberg_1935_mg.dds	</Texture>
+	</property>
+</GSC009_Nurnberg_1935_wire.mfm>

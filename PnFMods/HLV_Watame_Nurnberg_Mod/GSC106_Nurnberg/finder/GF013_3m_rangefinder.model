@@ -1,0 +1,8 @@
+<GF013_3m_rangefinder.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/finder/lods/GF013_3m_rangefinder_lod1	</parent>
+	<nodefullVisual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/finder/GF013_3m_rangefinder	</nodefullVisual>
+	<extent>	4.000000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GF013_3m_rangefinder.model>

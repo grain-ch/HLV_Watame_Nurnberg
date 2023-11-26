@@ -1,0 +1,8 @@
+<GGA022_7_92mm_MG_34_dead_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/gun/lods/GGA022_7_92mm_MG_34_dead_lod2	</parent>
+	<extent>	8.000000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/gun/lods/GGA022_7_92mm_MG_34_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGA022_7_92mm_MG_34_dead_lod1.model>

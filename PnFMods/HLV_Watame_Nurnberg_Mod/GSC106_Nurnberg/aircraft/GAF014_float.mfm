@@ -1,0 +1,16 @@
+<GAF014_float.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS.fx	</fx>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_float_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_float_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_float_a.dds	</Texture>
+	</property>
+</GAF014_float.mfm>

@@ -1,0 +1,10 @@
+<GD011_rangefinder_secondary_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/director/GD011_rangefinder_secondary_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/director/GD011_rangefinder_secondary_mg.dds	</Texture>
+	</property>
+</GD011_rangefinder_secondary_wire.mfm>

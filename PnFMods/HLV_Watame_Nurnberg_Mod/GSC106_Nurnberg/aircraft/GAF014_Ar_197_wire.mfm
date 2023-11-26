@@ -1,0 +1,10 @@
+<GAF014_Ar_197_wire.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_Ar_197_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_Ar_197_mg.dds	</Texture>
+	</property>
+</GAF014_Ar_197_wire.mfm>
