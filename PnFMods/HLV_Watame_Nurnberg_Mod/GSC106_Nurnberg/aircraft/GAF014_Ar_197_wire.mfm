@@ -1,6 +1,6 @@
 <GAF014_Ar_197_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
-	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
 	<property>	diffuseMap
 		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_Ar_197_a.dds	</Texture>
 	</property>

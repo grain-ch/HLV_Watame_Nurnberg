@@ -1,23 +1,19 @@
 <GGA022_7_92mm_MG_34_lod1.visual>
-	<boundingBox>
-		<min>	-0.008557 -0.010017 -0.039978	</min>
-		<max>	0.002730 0.035631 0.032423	</max>
-	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
 		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 		</transform>
 		<node>
 			<identifier>	Turret	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
 			<node>
 				<identifier>	HP_gunFire1	</identifier>
@@ -44,4 +40,8 @@
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
+	<boundingBox>
+		<min>	-0.0086 -0.0100 -0.0400	</min>
+		<max>	0.0027 0.0356 0.0324	</max>
+	</boundingBox>
 </GGA022_7_92mm_MG_34_lod1.visual>

@@ -101,7 +101,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.4090 -0.3402 -6.4088	</min>
-		<max>	0.4118 0.6564 -4.3261	</max>
+		<min>	-0.4088 -0.3401 -6.4055	</min>
+		<max>	0.4116 0.6561 -4.3239	</max>
 	</boundingBox>
 </GSC009_Nurnberg_1935_Stern_lod2.visual>

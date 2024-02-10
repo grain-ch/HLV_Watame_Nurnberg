@@ -1,5 +1,5 @@
 <GF014_6m_rangefinder_lod2.model>
-	<castsShadow>	false	</castsShadow>
+	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/finder/lods/GF014_6m_rangefinder_lod3	</parent>
 	<extent>	20.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/finder/lods/GF014_6m_rangefinder_lod2	</nodefullVisual>

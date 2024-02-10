@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.0914 -0.0019 -0.2566	</min>
-		<max>	0.0914 0.1268 0.3114	</max>
+		<min>	-0.0914 -0.0019 -0.2565	</min>
+		<max>	0.0914 0.1267 0.3112	</max>
 	</boundingBox>
 </GGT015_533mm_Torpedo_Tubes_Triple_dead_lod2.visual>

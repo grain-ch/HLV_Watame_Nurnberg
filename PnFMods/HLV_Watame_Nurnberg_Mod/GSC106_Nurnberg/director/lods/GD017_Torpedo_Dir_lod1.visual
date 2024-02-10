@@ -33,6 +33,6 @@
 	</renderSet>
 	<boundingBox>
 		<min>	-0.0330 -0.0015 -0.0224	</min>
-		<max>	0.0338 0.1027 0.0222	</max>
+		<max>	0.0338 0.1026 0.0222	</max>
 	</boundingBox>
 </GD017_Torpedo_Dir_lod1.visual>

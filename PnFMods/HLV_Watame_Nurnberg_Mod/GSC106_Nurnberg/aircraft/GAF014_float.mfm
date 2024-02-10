@@ -1,8 +1,14 @@
 <GAF014_float.mfm>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
-	<fx>	shaders/std_effects/PBS.fx	</fx>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/default_ao.dds	</Texture>
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_float_ao.dds	</Texture>
+	</property>
+	<property>	detailMap
+		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_float_a.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_float_mg.dds	</Texture>
@@ -10,7 +16,22 @@
 	<property>	normalMap
 		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_float_n.dds	</Texture>
 	</property>
-	<property>	diffuseMap
-		<Texture>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_float_a.dds	</Texture>
+	<property>	g_detailAlbedoInfluence
+		<Float>	0.6000	</Float>
+	</property>
+	<property>	g_detailFadeDistance
+		<Float>	3.0000	</Float>
+	</property>
+	<property>	g_detailGlossInfluence
+		<Float>	1.0000	</Float>
+	</property>
+	<property>	g_detailNormalInfluence
+		<Float>	0.4000	</Float>
+	</property>
+	<property>	g_detailScaleU
+		<Float>	8.0000	</Float>
+	</property>
+	<property>	g_detailScaleV
+		<Float>	2.0000	</Float>
 	</property>
 </GAF014_float.mfm>

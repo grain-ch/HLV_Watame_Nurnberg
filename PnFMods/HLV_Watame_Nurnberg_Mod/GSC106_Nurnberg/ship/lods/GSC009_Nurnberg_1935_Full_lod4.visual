@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.5455 -0.3802 -6.2465	</min>
-		<max>	0.5455 1.6821 5.8486	</max>
+		<min>	-0.5452 -0.3800 -6.2433	</min>
+		<max>	0.5452 1.6812 5.8456	</max>
 	</boundingBox>
 </GSC009_Nurnberg_1935_Full_lod4.visual>

@@ -1,5 +1,5 @@
 <GGA036_40mm_flak_28_dead_lod1.model>
-	<castsShadow>	false	</castsShadow>
+	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/gun/lods/GGA036_40mm_flak_28_dead_lod2	</parent>
 	<extent>	6.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/gun/lods/GGA036_40mm_flak_28_dead_lod1	</nodefullVisual>

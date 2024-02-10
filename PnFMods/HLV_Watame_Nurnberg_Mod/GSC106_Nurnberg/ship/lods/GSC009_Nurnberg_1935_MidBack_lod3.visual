@@ -147,7 +147,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.5539 -0.4733 -4.6690	</min>
-		<max>	0.5654 1.4730 -0.3753	</max>
+		<min>	-0.5537 -0.4731 -4.6667	</min>
+		<max>	0.5651 1.4723 -0.3751	</max>
 	</boundingBox>
 </GSC009_Nurnberg_1935_MidBack_lod3.visual>

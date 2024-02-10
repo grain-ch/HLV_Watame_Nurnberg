@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.0906 -0.0060 -0.1197	</min>
-		<max>	0.0906 0.1659 0.3276	</max>
+		<min>	-0.0906 -0.0060 -0.1196	</min>
+		<max>	0.0906 0.1658 0.3274	</max>
 	</boundingBox>
 </GGS018_88mm_ZwillingsFlak_dead_lod3.visual>

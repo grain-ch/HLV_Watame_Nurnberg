@@ -55,7 +55,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1084 0.0003 -0.1134	</min>
-		<max>	0.1084 0.2428 0.1064	</max>
+		<min>	-0.1083 0.0003 -0.1133	</min>
+		<max>	0.1083 0.2427 0.1063	</max>
 	</boundingBox>
 </GD011_Rangefinder_Secondary_lod1.visual>

@@ -1,5 +1,5 @@
 <GD008_Zeilsaule_C38_Night_Dir_lod1.model>
-	<castsShadow>	false	</castsShadow>
+	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/director/lods/GD008_Zeilsaule_C38_Night_Dir_lod2	</parent>
 	<extent>	4.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/director/lods/GD008_Zeilsaule_C38_Night_Dir_lod1	</nodefullVisual>

@@ -1,5 +1,5 @@
 <GGA009_37mm_SKC_30_twin_dead_lod1.model>
-	<castsShadow>	false	</castsShadow>
+	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/gun/lods/GGA009_37mm_SKC_30_twin_dead_lod2	</parent>
 	<extent>	4.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/gun/lods/GGA009_37mm_SKC_30_twin_dead_lod1	</nodefullVisual>

@@ -41,7 +41,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.2032 0.0000 -0.3297	</min>
-		<max>	0.2032 0.2774 0.5130	</max>
+		<min>	-0.2031 0.0000 -0.3295	</min>
+		<max>	0.2031 0.2773 0.5127	</max>
 	</boundingBox>
 </GGM029_149mm60_DrhTr_SK_C25_dead_lod3.visual>

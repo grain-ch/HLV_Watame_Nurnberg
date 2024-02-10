@@ -147,7 +147,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.4152 -0.4187 3.8190	</min>
-		<max>	0.4152 0.8137 5.8503	</max>
+		<min>	-0.4150 -0.4185 3.8171	</min>
+		<max>	0.4150 0.8133 5.8474	</max>
 	</boundingBox>
 </GSC009_Nurnberg_1935_Bow_lod1.visual>

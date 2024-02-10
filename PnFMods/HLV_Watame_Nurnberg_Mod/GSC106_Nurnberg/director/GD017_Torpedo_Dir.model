@@ -1,5 +1,5 @@
 <GD017_Torpedo_Dir.model>
-	<castsShadow>	false	</castsShadow>
+	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/director/lods/GD017_Torpedo_Dir_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/director/GD017_Torpedo_Dir	</nodefullVisual>
