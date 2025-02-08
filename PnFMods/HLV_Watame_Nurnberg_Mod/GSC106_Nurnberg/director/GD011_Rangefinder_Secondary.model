@@ -1,7 +1,6 @@
 <GD011_Rangefinder_Secondary.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/director/lods/GD011_Rangefinder_Secondary_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/director/GD011_Rangefinder_Secondary	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/director/GD011_Rangefinder_Secondary.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </GD011_Rangefinder_Secondary.model>

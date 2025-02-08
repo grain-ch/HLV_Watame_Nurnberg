@@ -1,7 +1,6 @@
 <GF010_Rangefinder_6m.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/finder/lods/GF010_Rangefinder_6m_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/finder/GF010_Rangefinder_6m	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/finder/GF010_Rangefinder_6m.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </GF010_Rangefinder_6m.model>

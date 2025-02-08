@@ -1,7 +1,6 @@
 <GGA022_7_92mm_MG_34.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/gun/lods/GGA022_7_92mm_MG_34_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/gun/GGA022_7_92mm_MG_34	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/gun/GGA022_7_92mm_MG_34.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </GGA022_7_92mm_MG_34.model>

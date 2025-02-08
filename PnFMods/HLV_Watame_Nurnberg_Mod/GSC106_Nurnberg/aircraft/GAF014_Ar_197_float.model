@@ -1,7 +1,6 @@
 <GAF014_Ar_197_float.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/lods/GAF014_Ar_197_float_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_Ar_197_float	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Watame_Nurnberg_Mod/GSC106_Nurnberg/aircraft/GAF014_Ar_197_float.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </GAF014_Ar_197_float.model>
